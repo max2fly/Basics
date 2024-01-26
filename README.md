@@ -1,7 +1,7 @@
 # CS3704 SE Basics Workshop
-Maksim Kirillov 
+Maksim Kirillov (maksim)
 Hello GitHub! Update: Fri Jan 26 12:39:00 EST 2024
 
 Partner(s):
-millersd25@vt.edu - Sherman Miller
-arjunv905@vt.edu - Arjun Vellanki
+Sherman Miller (millersd25)
+Arjun Vellanki (arjunv905)
