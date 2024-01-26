@@ -1,0 +1,7 @@
+- What is your favorite programming language? Why?
+
+My favorite language by far is C, as it lets you get away with the most random things that other languages simply would not allow through the use of pointers, giving you a lot of creative freedom from the way you approach a problem
+
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+This is one of the languages I am most experienced with, as I have taken several classes of Java and C, so I can't necessarily decide which one of the two I am the most experienced with.
